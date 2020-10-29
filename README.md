@@ -1,1 +1,1 @@
-# Origami-2
+# Create-a-Easy-Origami
